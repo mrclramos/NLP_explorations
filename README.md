@@ -2,7 +2,7 @@
 
 Repositorio com os scripts utilizados para explorar bibliotecas de NLP durante a pós graduação em Inteligência Artificial e Aprendizado de Máquina.
 
-Temos o script get_tweets.py que utiliza a API do Twitter para coleta de dados.
+O programa get_tweets.py utiliza a API do Twitter para coleta de dados.
 
 O objetivo é efetuar Análise de Sentimentos (positivo, neutro, negativo) dos tweets coletados.
 
